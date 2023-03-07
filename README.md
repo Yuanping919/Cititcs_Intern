@@ -1,1 +1,1 @@
-# Cititcs_Intern
+# 中信股权投资部实习材料
