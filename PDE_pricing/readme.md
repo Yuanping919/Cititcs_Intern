@@ -1,4 +1,5 @@
 # 雪球结构定价
-参考 PDE.py
 
-MC.py为Airbag期权定价的Monte Carlo方法
+Please refer to PDE.py for pricing Callable Option using PDE&finite differencing methodology
+
+MC.py is the file for pricing Airbag Structure using Monte Carlo Simulation
