@@ -7,6 +7,6 @@
 ## 给定价格估计公允票息(note_to_price.py)
 - 根据卖方给出定价测算naive的票息。
 
-## 雪球Delta加速
+## 雪球Delta加速(snowball_delta_exFAST.py)
 - 分别用Likelihood Ratio 和 Pathwise Estimator估计普通雪球的Delta, Likelihood Ratio相对收敛较快、速度较快
 - 至少200万条路径才能给出较为稳定的delta，针对python运行速度较慢，用numba加速，每100万条path约用时8s。
